@@ -1,0 +1,5 @@
+Project,Object path,distinguishedName
+Books,spi-global.com/Manage Objects/Content/Philippines/Dumaguete/Managed Computers/Books,"OU=Books,OU=Managed Computers,OU=Dumaguete,OU=Philippines,OU=Content,OU=Manage Objects,DC=spi-global,DC=com"
+Elsevier CS,spi-global.com/Manage Objects/Content/Philippines/Dumaguete/Managed Computers/Conversion/Customer Service/Elsevier CS,"OU=Elsevier CS,OU=Customer Service,OU=Conversion,OU=Managed Computers,OU=Dumaguete,OU=Philippines,OU=Content,OU=Manage Objects,DC=spi-global,DC=com"
+Springer CS,spi-global.com/Manage Objects/Content/Philippines/Dumaguete/Managed Computers/Conversion/Customer Service/Springer CS,"OU=Springer CS,OU=Customer Service,OU=Conversion,OU=Managed Computers,OU=Dumaguete,OU=Philippines,OU=Content,OU=Manage Objects,DC=spi-global,DC=com"
+Telesales,spi-global.com/Manage Objects/Content/Philippines/Dumaguete/Managed Computers/Conversion/Customer Service/Telesales,"OU=Telesales,OU=Customer Service,OU=Conversion,OU=Managed Computers,OU=Dumaguete,OU=Philippines,OU=Content,OU=Manage Objects,DC=spi-global,DC=com"

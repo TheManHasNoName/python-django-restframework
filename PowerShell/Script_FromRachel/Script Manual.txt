@@ -1,0 +1,22 @@
+﻿!!!--- Permission.ps1 ---!!!
+Code:		ps1-script_path\Permission.ps1 FolderPath
+Example:	.\Permission.ps1 D:\Shared
+==>> Get the permission rights of all the folders (files are not included and also sub-folders of it) located in D:\Shared
+==>> Output will be in D:\Shared\Permission.csv
+==>> ren D:\Shared\Permission.csv NewFile.csv
+
+!!!--- Get-InstalledSoftware.ps1 ---!!!
+Code:		ps1-script_path\Get-InstalledSoftware.ps1 HostName
+Example:	.\Get-InstalledSoftware.ps1 BGPC000026050P
+==>> Display all apps installed in the Computer
+
+!!!--- Get-LocalGroupMembers.ps1 ---!!!
+Code:		ps1-script_path\Get-LocalGroupMembers.ps1 HostName
+Example:	.\Get-LocalGroupMembers.ps1 BGPC000026050P
+==>> Display the members of Administrator and Remote Desktop Users of the Computer
+
+!!!--- Get-LocalGroupMembers2.ps1 ---!!!
+Code:		ps1-script_path\Get-LocalGroupMembers2.ps1 HostName 'LocalGroup'
+Example:	.\Get-LocalGroupMembers2.ps1 BGPC000026050P 'Administrators'
+Example:	.\Get-LocalGroupMembers2.ps1 BGPC000026050P 'Remote Desktop Users'
+==>> Display the members of the localgroup of the Computer
